@@ -1,6 +1,6 @@
 # Experiment 3 : Develop a Convolutional Deep Neural Network for Image Classification
-# NAME : RUSHMITHA R
-# REGISTRATION NUMBER : 212224040281
+## NAME : RUSHMITHA R
+## REGISTRATION NUMBER : 212224040281
 
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
